@@ -68,7 +68,7 @@ const siteConfig = {
               to: 'docs/getting-started',
             },
             {
-              label: 'Learn React',
+              label: 'Learn React Fast Does this work?',
               href: 'https://reactjs.org/',
             },
           ],

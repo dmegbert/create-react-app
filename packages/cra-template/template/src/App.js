@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Fast!!! And use Fast Refresh
         </a>
       </header>
     </div>
